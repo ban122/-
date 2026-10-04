@@ -1,0 +1,60 @@
+# 서버 없이 무료로 운영하는 방법:
+# 3시간마다 GitHub Actions가 상품을 수집하고, 변경이 있으면 커밋한 뒤
+# public/ 폴더를 GitHub Pages로 배포합니다.
+# (저장소 Settings → Pages → Source 를 "GitHub Actions" 로 설정해야 합니다)
+name: 상품 수집 및 배포
+
+on:
+  schedule:
+    - cron: '17 */3 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['public/**', 'src/**', 'scripts/**']
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: 상품 수집
+        run: npm run scrape
+        env:
+          SHOP_URL: ${{ vars.SHOP_URL || 'https://vibecodinguniv.cafe24.com' }}
+      - name: 의미 있는 변경이 있을 때만 커밋
+        run: |
+          f=public/data/products.json
+          norm='del(.updatedAt, .lastRun) | .products |= map(del(.lastSeen))'
+          if git cat-file -e HEAD:$f 2>/dev/null && \
+             [ "$(git show HEAD:$f | jq -S "$norm")" = "$(jq -S "$norm" $f)" ]; then
+            echo "변경 없음 — 커밋 생략"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add $f
+          git commit -m "chore: 상품 데이터 업데이트 ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git push
+      - uses: actions/configure-pages@v5
+        continue-on-error: true
+        id: pages
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.pages.outcome == 'success'
+        with:
+          path: public
+      - uses: actions/deploy-pages@v4
+        if: steps.pages.outcome == 'success'

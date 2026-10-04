@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>상품 모아보기</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top__inner">
+      <div>
+        <h1>상품 모아보기</h1>
+        <p class="sub">
+          <a id="shopLink" target="_blank" rel="noopener"></a>
+          · 마지막 업데이트 <time id="updatedAt">-</time>
+        </p>
+      </div>
+      <div class="top__actions">
+        <span id="syncState" class="sync-state"></span>
+        <button id="refreshBtn" class="btn" hidden>지금 업데이트</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="stats" id="stats"></section>
+
+    <nav class="tabs" role="tablist">
+      <button class="tab is-active" data-tab="products" role="tab">상품</button>
+      <button class="tab" data-tab="events" role="tab">변경 내역</button>
+    </nav>
+
+    <section id="panel-products">
+      <div class="filters">
+        <input id="q" type="search" placeholder="상품명 검색" autocomplete="off" />
+        <select id="category"><option value="">전체 카테고리</option></select>
+        <select id="sort">
+          <option value="new">최신 등록순</option>
+          <option value="updated">최근 변경순</option>
+          <option value="priceAsc">낮은 가격순</option>
+          <option value="priceDesc">높은 가격순</option>
+          <option value="name">이름순</option>
+        </select>
+        <label class="check"><input type="checkbox" id="hideSoldOut" /> 품절 숨기기</label>
+        <label class="check"><input type="checkbox" id="showRemoved" /> 판매 종료 포함</label>
+      </div>
+      <p class="count" id="count"></p>
+      <ul class="grid" id="grid"></ul>
+      <p class="empty" id="empty" hidden>조건에 맞는 상품이 없습니다.</p>
+    </section>
+
+    <section id="panel-events" hidden>
+      <ul class="events" id="events"></ul>
+    </section>
+  </main>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>
