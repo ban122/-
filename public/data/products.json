@@ -1,12 +1,12 @@
 {
   "shop": "https://vibecodinguniv.cafe24.com",
-  "updatedAt": "2026-10-14T15:47:20.729Z",
+  "updatedAt": "2026-10-14T18:49:31.624Z",
   "lastRun": {
-    "at": "2026-10-14T15:47:20.729Z",
+    "at": "2026-10-14T18:49:31.624Z",
     "scraped": 285,
     "errors": 0,
     "suspicious": false,
-    "durationMs": 139876
+    "durationMs": 147209
   },
   "stats": {
     "total": 285,
@@ -279,7 +279,7 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T06:51:21.484Z",
       "removed": false,
       "priceHistory": [
@@ -332,7 +332,7 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T09:33:36.107Z",
       "removed": false,
       "priceHistory": [
@@ -369,7 +369,7 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T06:39:15.311Z",
       "removed": false,
       "priceHistory": [
@@ -418,7 +418,7 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T03:30:12.754Z",
       "removed": false,
       "priceHistory": [
@@ -451,7 +451,7 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T15:33:34.479Z",
       "removed": false,
       "priceHistory": [
@@ -488,7 +488,7 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T18:37:42.533Z",
       "removed": false,
       "priceHistory": [
@@ -537,9 +537,9 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-09T03:30:41.873Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-06T18:31:45.097Z",
-      "removed": true,
+      "removed": false,
       "priceHistory": [
         {
           "price": 14900,
@@ -549,14 +549,13 @@
           "price": 15500,
           "at": "2026-10-06T18:31:45.097Z"
         }
-      ],
-      "removedAt": "2026-10-09T06:36:24.051Z"
+      ]
     },
     {
       "productNo": "323",
       "name": "어반 키캡 세트",
-      "price": 9600,
-      "listPrice": 9600,
+      "price": 10200,
+      "listPrice": 10200,
       "discounted": false,
       "currency": "KRW",
       "image": "https://ecimg.cafe24img.com/pg3354b17981525095/vibecodinguniv/web/upload/share-image-1-1239eebecbe63010c5ec9a2203d29068.jpg",
@@ -567,8 +566,8 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
-      "updatedAt": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
+      "updatedAt": "2026-10-14T18:49:31.624Z",
       "removed": false,
       "priceHistory": [
         {
@@ -622,6 +621,10 @@
         {
           "price": 9600,
           "at": "2026-10-14T15:47:20.729Z"
+        },
+        {
+          "price": 10200,
+          "at": "2026-10-14T18:49:31.624Z"
         }
       ]
     },
@@ -640,7 +643,7 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-08T06:36:54.167Z",
       "removed": false,
       "priceHistory": [
@@ -723,7 +726,7 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T03:30:12.754Z",
       "removed": false,
       "priceHistory": [
@@ -768,7 +771,7 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T18:31:27.147Z",
       "removed": false,
       "priceHistory": [
@@ -809,7 +812,7 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T15:33:34.479Z",
       "removed": false,
       "priceHistory": [
@@ -862,7 +865,7 @@
         "43"
       ],
       "firstSeen": "2026-10-06T00:39:13.586Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T06:51:21.484Z",
       "removed": false,
       "priceHistory": [
@@ -899,7 +902,7 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-09T21:29:10.960Z",
       "removed": false,
       "priceHistory": [
@@ -940,7 +943,7 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T12:33:54.734Z",
       "removed": false,
       "priceHistory": [
@@ -989,7 +992,7 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T03:33:09.789Z",
       "removed": false,
       "priceHistory": [
@@ -1034,7 +1037,7 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T12:50:11.523Z",
       "removed": false,
       "priceHistory": [
@@ -1079,7 +1082,7 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T03:40:57.382Z",
       "removed": false,
       "priceHistory": [
@@ -1124,7 +1127,7 @@
         "43"
       ],
       "firstSeen": "2026-10-08T12:37:41.441Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T21:39:15.274Z",
       "removed": false,
       "priceHistory": [
@@ -1161,7 +1164,7 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T00:51:54.798Z",
       "removed": false,
       "priceHistory": [
@@ -1194,8 +1197,8 @@
     {
       "productNo": "309",
       "name": "모던 장패드",
-      "price": 18900,
-      "listPrice": 18900,
+      "price": 19800,
+      "listPrice": 19800,
       "discounted": false,
       "currency": "KRW",
       "image": "https://ecimg.cafe24img.com/pg3354b17981525095/vibecodinguniv/web/upload/share-image-1-1239eebecbe63010c5ec9a2203d29068.jpg",
@@ -1206,8 +1209,8 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
-      "updatedAt": "2026-10-12T00:41:49.744Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
+      "updatedAt": "2026-10-14T18:49:31.624Z",
       "removed": false,
       "priceHistory": [
         {
@@ -1221,6 +1224,10 @@
         {
           "price": 18900,
           "at": "2026-10-12T00:41:49.744Z"
+        },
+        {
+          "price": 19800,
+          "at": "2026-10-14T18:49:31.624Z"
         }
       ]
     },
@@ -1239,7 +1246,7 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T15:32:01.748Z",
       "removed": false,
       "priceHistory": [
@@ -1288,7 +1295,7 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-06T00:39:13.586Z",
       "removed": false,
       "priceHistory": [
@@ -1317,7 +1324,7 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T15:47:20.729Z",
       "removed": false,
       "priceHistory": [
@@ -1358,7 +1365,7 @@
         "43"
       ],
       "firstSeen": "2026-10-05T09:34:07.396Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T18:34:34.696Z",
       "removed": false,
       "priceHistory": [
@@ -1387,7 +1394,7 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T03:32:27.194Z",
       "removed": false,
       "priceHistory": [
@@ -1436,7 +1443,7 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T03:40:57.382Z",
       "removed": false,
       "priceHistory": [
@@ -1481,7 +1488,7 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T18:34:34.696Z",
       "removed": false,
       "priceHistory": [
@@ -1530,7 +1537,7 @@
         "43"
       ],
       "firstSeen": "2026-10-05T18:34:58.040Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T09:42:23.684Z",
       "removed": false,
       "priceHistory": [
@@ -1571,7 +1578,7 @@
         "43"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-10T03:29:32.728Z",
       "removed": false,
       "priceHistory": [
@@ -1654,7 +1661,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T03:40:57.382Z",
       "removed": false,
       "priceHistory": [
@@ -1707,7 +1714,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T09:42:23.684Z",
       "removed": false,
       "priceHistory": [
@@ -1740,7 +1747,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T15:28:04.611Z",
       "removed": false,
       "priceHistory": [
@@ -1777,7 +1784,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T06:51:21.484Z",
       "removed": false,
       "priceHistory": [
@@ -1818,7 +1825,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T03:40:57.382Z",
       "removed": false,
       "priceHistory": [
@@ -1891,7 +1898,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T09:42:23.684Z",
       "removed": false,
       "priceHistory": [
@@ -1944,7 +1951,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T18:34:34.696Z",
       "removed": false,
       "priceHistory": [
@@ -1989,8 +1996,8 @@
     {
       "productNo": "291",
       "name": "컴포트 멀티탭 차콜",
-      "price": 22400,
-      "listPrice": 22400,
+      "price": 23700,
+      "listPrice": 23700,
       "discounted": false,
       "currency": "KRW",
       "image": "https://ecimg.cafe24img.com/pg3354b17981525095/vibecodinguniv/web/upload/share-image-1-1239eebecbe63010c5ec9a2203d29068.jpg",
@@ -2001,8 +2008,8 @@
         "49"
       ],
       "firstSeen": "2026-10-07T03:30:03.445Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
-      "updatedAt": "2026-10-13T18:37:42.533Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
+      "updatedAt": "2026-10-14T18:49:31.624Z",
       "removed": false,
       "priceHistory": [
         {
@@ -2024,6 +2031,10 @@
         {
           "price": 22400,
           "at": "2026-10-13T18:37:42.533Z"
+        },
+        {
+          "price": 23700,
+          "at": "2026-10-14T18:49:31.624Z"
         }
       ]
     },
@@ -2080,7 +2091,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-04T21:16:04.019Z",
       "removed": false,
       "priceHistory": [
@@ -2105,7 +2116,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T21:28:35.090Z",
       "removed": false,
       "priceHistory": [
@@ -2172,7 +2183,7 @@
         "49"
       ],
       "firstSeen": "2026-10-11T12:33:54.734Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T03:32:27.194Z",
       "removed": false,
       "priceHistory": [
@@ -2235,7 +2246,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-09T12:34:31.045Z",
       "removed": false,
       "priceHistory": [
@@ -2268,7 +2279,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-10T15:27:29.209Z",
       "removed": false,
       "priceHistory": [
@@ -2317,7 +2328,7 @@
         "49"
       ],
       "firstSeen": "2026-10-06T09:31:14.754Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T15:33:34.479Z",
       "removed": false,
       "priceHistory": [
@@ -2358,7 +2369,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T06:34:22.876Z",
       "removed": false,
       "priceHistory": [
@@ -2387,7 +2398,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T18:37:42.533Z",
       "removed": false,
       "priceHistory": [
@@ -2408,8 +2419,8 @@
     {
       "productNo": "279",
       "name": "심플 USB 허브 그레이",
-      "price": 39700,
-      "listPrice": 39700,
+      "price": 38300,
+      "listPrice": 38300,
       "discounted": false,
       "currency": "KRW",
       "image": "https://ecimg.cafe24img.com/pg3354b17981525095/vibecodinguniv/web/upload/share-image-1-1239eebecbe63010c5ec9a2203d29068.jpg",
@@ -2420,8 +2431,8 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
-      "updatedAt": "2026-10-13T03:32:27.194Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
+      "updatedAt": "2026-10-14T18:49:31.624Z",
       "removed": false,
       "priceHistory": [
         {
@@ -2463,6 +2474,10 @@
         {
           "price": 39700,
           "at": "2026-10-13T03:32:27.194Z"
+        },
+        {
+          "price": 38300,
+          "at": "2026-10-14T18:49:31.624Z"
         }
       ]
     },
@@ -2481,7 +2496,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T00:43:27.115Z",
       "removed": false,
       "priceHistory": [
@@ -2518,7 +2533,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T15:33:34.479Z",
       "removed": false,
       "priceHistory": [
@@ -2563,7 +2578,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T12:50:41.366Z",
       "removed": false,
       "priceHistory": [
@@ -2608,7 +2623,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T03:40:57.382Z",
       "removed": false,
       "priceHistory": [
@@ -2657,7 +2672,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T12:50:11.523Z",
       "removed": false,
       "priceHistory": [
@@ -2690,7 +2705,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T18:37:42.533Z",
       "removed": false,
       "priceHistory": [
@@ -2727,7 +2742,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T21:39:15.274Z",
       "removed": false,
       "priceHistory": [
@@ -2784,7 +2799,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T15:47:20.729Z",
       "removed": false,
       "priceHistory": [
@@ -2829,7 +2844,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T09:42:23.684Z",
       "removed": false,
       "priceHistory": [
@@ -2862,7 +2877,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-10T03:29:32.728Z",
       "removed": false,
       "priceHistory": [
@@ -2899,7 +2914,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-10T21:27:17.364Z",
       "removed": false,
       "priceHistory": [
@@ -2974,7 +2989,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T06:40:23.936Z",
       "removed": false,
       "priceHistory": [
@@ -3011,7 +3026,7 @@
         "49"
       ],
       "firstSeen": "2026-10-08T06:36:54.167Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T09:33:36.107Z",
       "removed": false,
       "priceHistory": [
@@ -3044,7 +3059,7 @@
         "49"
       ],
       "firstSeen": "2026-10-11T09:29:07.985Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T12:39:38.281Z",
       "removed": false,
       "priceHistory": [
@@ -3073,7 +3088,7 @@
         "49"
       ],
       "firstSeen": "2026-10-07T00:40:02.129Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T06:51:21.484Z",
       "removed": false,
       "priceHistory": [
@@ -3106,7 +3121,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T03:33:09.789Z",
       "removed": false,
       "priceHistory": [
@@ -3143,7 +3158,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T00:51:54.798Z",
       "removed": false,
       "priceHistory": [
@@ -3192,7 +3207,7 @@
         "49"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T15:33:34.479Z",
       "removed": false,
       "priceHistory": [
@@ -3275,7 +3290,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T15:33:34.479Z",
       "removed": false,
       "priceHistory": [
@@ -3316,7 +3331,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T12:39:38.281Z",
       "removed": false,
       "priceHistory": [
@@ -3361,7 +3376,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T09:42:23.684Z",
       "removed": false,
       "priceHistory": [
@@ -3402,7 +3417,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T21:39:15.274Z",
       "removed": false,
       "priceHistory": [
@@ -3451,7 +3466,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T18:37:42.533Z",
       "removed": false,
       "priceHistory": [
@@ -3508,7 +3523,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-04T21:16:04.019Z",
       "removed": false,
       "priceHistory": [
@@ -3533,7 +3548,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T15:33:34.479Z",
       "removed": false,
       "priceHistory": [
@@ -3570,7 +3585,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T06:39:15.311Z",
       "removed": false,
       "priceHistory": [
@@ -3599,8 +3614,8 @@
     {
       "productNo": "250",
       "name": "이지 미니 보틀",
-      "price": 28300,
-      "listPrice": 28300,
+      "price": 29500,
+      "listPrice": 29500,
       "discounted": false,
       "currency": "KRW",
       "image": "https://ecimg.cafe24img.com/pg3354b17981525095/vibecodinguniv/web/upload/share-image-1-1239eebecbe63010c5ec9a2203d29068.jpg",
@@ -3611,8 +3626,8 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
-      "updatedAt": "2026-10-10T00:40:11.533Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
+      "updatedAt": "2026-10-14T18:49:31.624Z",
       "removed": false,
       "priceHistory": [
         {
@@ -3622,6 +3637,10 @@
         {
           "price": 28300,
           "at": "2026-10-10T00:40:11.533Z"
+        },
+        {
+          "price": 29500,
+          "at": "2026-10-14T18:49:31.624Z"
         }
       ]
     },
@@ -3640,7 +3659,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-07T00:40:02.129Z",
       "removed": false,
       "priceHistory": [
@@ -3673,7 +3692,7 @@
         "48"
       ],
       "firstSeen": "2026-10-08T15:32:37.445Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T00:43:27.115Z",
       "removed": false,
       "priceHistory": [
@@ -3702,7 +3721,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-10T18:30:41.584Z",
       "removed": false,
       "priceHistory": [
@@ -3781,7 +3800,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T21:29:06.815Z",
       "removed": false,
       "priceHistory": [
@@ -3818,7 +3837,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T09:42:23.684Z",
       "removed": false,
       "priceHistory": [
@@ -3847,7 +3866,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T15:47:20.729Z",
       "removed": false,
       "priceHistory": [
@@ -3872,8 +3891,8 @@
     {
       "productNo": "242",
       "name": "시그니처 미니 보틀 그레이",
-      "price": 18000,
-      "listPrice": 18000,
+      "price": 18500,
+      "listPrice": 18500,
       "discounted": false,
       "currency": "KRW",
       "image": "https://ecimg.cafe24img.com/pg3354b17981525095/vibecodinguniv/web/upload/share-image-1-1239eebecbe63010c5ec9a2203d29068.jpg",
@@ -3884,8 +3903,8 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
-      "updatedAt": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
+      "updatedAt": "2026-10-14T18:49:31.624Z",
       "removed": false,
       "priceHistory": [
         {
@@ -3915,6 +3934,10 @@
         {
           "price": 18000,
           "at": "2026-10-14T15:47:20.729Z"
+        },
+        {
+          "price": 18500,
+          "at": "2026-10-14T18:49:31.624Z"
         }
       ]
     },
@@ -3933,7 +3956,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T12:50:11.523Z",
       "removed": false,
       "priceHistory": [
@@ -3986,7 +4009,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T03:32:27.194Z",
       "removed": false,
       "priceHistory": [
@@ -4027,7 +4050,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T15:47:20.729Z",
       "removed": false,
       "priceHistory": [
@@ -4080,7 +4103,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T09:35:03.279Z",
       "removed": false,
       "priceHistory": [
@@ -4121,7 +4144,7 @@
         "48"
       ],
       "firstSeen": "2026-10-05T21:33:44.502Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T09:33:36.107Z",
       "removed": false,
       "priceHistory": [
@@ -4174,7 +4197,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T00:51:54.798Z",
       "removed": false,
       "priceHistory": [
@@ -4211,7 +4234,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T00:51:54.798Z",
       "removed": false,
       "priceHistory": [
@@ -4256,7 +4279,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-08T15:32:37.445Z",
       "removed": false,
       "priceHistory": [
@@ -4297,7 +4320,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-09T15:30:47.026Z",
       "removed": false,
       "priceHistory": [
@@ -4334,7 +4357,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T15:32:01.748Z",
       "removed": false,
       "priceHistory": [
@@ -4371,7 +4394,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T06:51:21.484Z",
       "removed": false,
       "priceHistory": [
@@ -4412,7 +4435,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T12:39:38.281Z",
       "removed": false,
       "priceHistory": [
@@ -4449,7 +4472,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T12:50:11.523Z",
       "removed": false,
       "priceHistory": [
@@ -4532,8 +4555,8 @@
     {
       "productNo": "227",
       "name": "베이직 미니 보틀 그레이",
-      "price": 38100,
-      "listPrice": 38100,
+      "price": 39000,
+      "listPrice": 39000,
       "discounted": false,
       "currency": "KRW",
       "image": "https://ecimg.cafe24img.com/pg3354b17981525095/vibecodinguniv/web/upload/share-image-1-1239eebecbe63010c5ec9a2203d29068.jpg",
@@ -4544,8 +4567,8 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
-      "updatedAt": "2026-10-13T00:43:27.115Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
+      "updatedAt": "2026-10-14T18:49:31.624Z",
       "removed": false,
       "priceHistory": [
         {
@@ -4571,6 +4594,10 @@
         {
           "price": 38100,
           "at": "2026-10-13T00:43:27.115Z"
+        },
+        {
+          "price": 39000,
+          "at": "2026-10-14T18:49:31.624Z"
         }
       ]
     },
@@ -4589,7 +4616,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T00:41:49.744Z",
       "removed": false,
       "priceHistory": [
@@ -4638,7 +4665,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T03:30:12.754Z",
       "removed": false,
       "priceHistory": [
@@ -4675,7 +4702,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T12:50:11.523Z",
       "removed": false,
       "priceHistory": [
@@ -4720,7 +4747,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T12:50:41.366Z",
       "removed": false,
       "priceHistory": [
@@ -4765,7 +4792,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-08T03:30:19.363Z",
       "removed": false,
       "priceHistory": [
@@ -4828,7 +4855,7 @@
         "48"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T09:29:07.985Z",
       "removed": false,
       "priceHistory": [
@@ -4873,7 +4900,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T15:47:20.729Z",
       "removed": false,
       "priceHistory": [
@@ -4922,7 +4949,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T03:30:12.754Z",
       "removed": false,
       "priceHistory": [
@@ -4963,7 +4990,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T03:32:27.194Z",
       "removed": false,
       "priceHistory": [
@@ -5010,7 +5037,7 @@
       "firstSeen": "2026-10-04T21:16:04.019Z",
       "lastSeen": "2026-10-14T15:47:20.729Z",
       "updatedAt": "2026-10-14T15:47:20.729Z",
-      "removed": false,
+      "removed": true,
       "priceHistory": [
         {
           "price": 39800,
@@ -5036,7 +5063,8 @@
           "price": 37900,
           "at": "2026-10-14T15:47:20.729Z"
         }
-      ]
+      ],
+      "removedAt": "2026-10-14T18:49:31.624Z"
     },
     {
       "productNo": "215",
@@ -5053,7 +5081,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T12:50:41.366Z",
       "removed": false,
       "priceHistory": [
@@ -5086,7 +5114,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T18:37:42.533Z",
       "removed": false,
       "priceHistory": [
@@ -5123,7 +5151,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-10T15:27:29.209Z",
       "removed": false,
       "priceHistory": [
@@ -5160,7 +5188,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T09:42:23.684Z",
       "removed": false,
       "priceHistory": [
@@ -5201,7 +5229,7 @@
         "42"
       ],
       "firstSeen": "2026-10-06T06:34:45.783Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T06:39:15.311Z",
       "removed": false,
       "priceHistory": [
@@ -5258,7 +5286,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-10T12:32:50.957Z",
       "removed": false,
       "priceHistory": [
@@ -5303,7 +5331,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T21:39:15.274Z",
       "removed": false,
       "priceHistory": [
@@ -5352,7 +5380,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T18:34:34.696Z",
       "removed": false,
       "priceHistory": [
@@ -5397,7 +5425,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T00:51:54.798Z",
       "removed": false,
       "priceHistory": [
@@ -5438,7 +5466,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-10T09:28:21.794Z",
       "removed": false,
       "priceHistory": [
@@ -5475,7 +5503,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T06:34:22.876Z",
       "removed": false,
       "priceHistory": [
@@ -5516,7 +5544,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T00:43:27.115Z",
       "removed": false,
       "priceHistory": [
@@ -5591,7 +5619,7 @@
         "42"
       ],
       "firstSeen": "2026-10-08T21:30:11.107Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T18:37:42.533Z",
       "removed": false,
       "priceHistory": [
@@ -5636,7 +5664,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T00:43:27.115Z",
       "removed": false,
       "priceHistory": [
@@ -5677,7 +5705,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T15:32:01.748Z",
       "removed": false,
       "priceHistory": [
@@ -5722,7 +5750,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T06:51:21.484Z",
       "removed": false,
       "priceHistory": [
@@ -5775,7 +5803,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T09:33:36.107Z",
       "removed": false,
       "priceHistory": [
@@ -5816,7 +5844,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T12:50:11.523Z",
       "removed": false,
       "priceHistory": [
@@ -5845,7 +5873,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T06:51:21.484Z",
       "removed": false,
       "priceHistory": [
@@ -5908,7 +5936,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T03:40:57.382Z",
       "removed": false,
       "priceHistory": [
@@ -5933,8 +5961,8 @@
     {
       "productNo": "193",
       "name": "모던 후드티",
-      "price": 83500,
-      "listPrice": 83500,
+      "price": 86800,
+      "listPrice": 86800,
       "discounted": false,
       "currency": "KRW",
       "image": "https://ecimg.cafe24img.com/pg3354b17981525095/vibecodinguniv/web/upload/share-image-1-1239eebecbe63010c5ec9a2203d29068.jpg",
@@ -5945,8 +5973,8 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
-      "updatedAt": "2026-10-11T18:31:27.147Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
+      "updatedAt": "2026-10-14T18:49:31.624Z",
       "removed": false,
       "priceHistory": [
         {
@@ -5972,6 +6000,10 @@
         {
           "price": 83500,
           "at": "2026-10-11T18:31:27.147Z"
+        },
+        {
+          "price": 86800,
+          "at": "2026-10-14T18:49:31.624Z"
         }
       ]
     },
@@ -5990,7 +6022,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T12:50:11.523Z",
       "removed": false,
       "priceHistory": [
@@ -6035,7 +6067,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T12:50:11.523Z",
       "removed": false,
       "priceHistory": [
@@ -6068,7 +6100,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T06:40:23.936Z",
       "removed": false,
       "priceHistory": [
@@ -6105,7 +6137,7 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T09:42:23.684Z",
       "removed": false,
       "priceHistory": [
@@ -6146,7 +6178,7 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-10T09:28:21.794Z",
       "removed": false,
       "priceHistory": [
@@ -6183,7 +6215,7 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T12:50:11.523Z",
       "removed": false,
       "priceHistory": [
@@ -6244,7 +6276,7 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T06:51:21.484Z",
       "removed": false,
       "priceHistory": [
@@ -6281,7 +6313,7 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-09T12:34:31.045Z",
       "removed": false,
       "priceHistory": [
@@ -6326,7 +6358,7 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T06:34:22.876Z",
       "removed": false,
       "priceHistory": [
@@ -6379,7 +6411,7 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T12:33:54.734Z",
       "removed": false,
       "priceHistory": [
@@ -6420,7 +6452,7 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-04T21:16:04.019Z",
       "removed": false,
       "priceHistory": [
@@ -6445,7 +6477,7 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T15:32:01.748Z",
       "removed": false,
       "priceHistory": [
@@ -6486,7 +6518,7 @@
         "46"
       ],
       "firstSeen": "2026-10-05T03:31:15.784Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T21:39:15.274Z",
       "removed": false,
       "priceHistory": [
@@ -6523,7 +6555,7 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T18:37:42.533Z",
       "removed": false,
       "priceHistory": [
@@ -6580,9 +6612,9 @@
         "46"
       ],
       "firstSeen": "2026-10-09T21:29:10.960Z",
-      "lastSeen": "2026-10-13T18:37:42.533Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T15:32:01.748Z",
-      "removed": true,
+      "removed": false,
       "priceHistory": [
         {
           "price": 7400,
@@ -6596,8 +6628,7 @@
           "price": 6800,
           "at": "2026-10-12T15:32:01.748Z"
         }
-      ],
-      "removedAt": "2026-10-13T21:39:15.274Z"
+      ]
     },
     {
       "productNo": "177",
@@ -6660,7 +6691,7 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T15:47:20.729Z",
       "removed": false,
       "priceHistory": [
@@ -6693,7 +6724,7 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T15:33:34.479Z",
       "removed": false,
       "priceHistory": [
@@ -6810,7 +6841,7 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-05T18:34:58.040Z",
       "removed": false,
       "priceHistory": [
@@ -6881,7 +6912,7 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T09:33:36.107Z",
       "removed": false,
       "priceHistory": [
@@ -6942,7 +6973,7 @@
         "46"
       ],
       "firstSeen": "2026-10-05T06:40:10.445Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T03:40:57.382Z",
       "removed": false,
       "priceHistory": [
@@ -6987,7 +7018,7 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-09T18:31:54.022Z",
       "removed": false,
       "priceHistory": [
@@ -7024,7 +7055,7 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T03:33:09.789Z",
       "removed": false,
       "priceHistory": [
@@ -7069,7 +7100,7 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T00:41:49.744Z",
       "removed": false,
       "priceHistory": [
@@ -7136,7 +7167,7 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T12:50:11.523Z",
       "removed": false,
       "priceHistory": [
@@ -7189,7 +7220,7 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-10T03:29:32.728Z",
       "removed": false,
       "priceHistory": [
@@ -7226,7 +7257,7 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T09:35:03.279Z",
       "removed": false,
       "priceHistory": [
@@ -7263,7 +7294,7 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T18:31:27.147Z",
       "removed": false,
       "priceHistory": [
@@ -7308,7 +7339,7 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T15:33:34.479Z",
       "removed": false,
       "priceHistory": [
@@ -7345,8 +7376,8 @@
     {
       "productNo": "159",
       "name": "라이트 인덱스 탭 아이보리",
-      "price": 10300,
-      "listPrice": 10300,
+      "price": 10600,
+      "listPrice": 10600,
       "discounted": false,
       "currency": "KRW",
       "image": "https://ecimg.cafe24img.com/pg3354b17981525095/vibecodinguniv/web/upload/share-image-1-1239eebecbe63010c5ec9a2203d29068.jpg",
@@ -7357,8 +7388,8 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
-      "updatedAt": "2026-10-14T12:50:11.523Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
+      "updatedAt": "2026-10-14T18:49:31.624Z",
       "removed": false,
       "priceHistory": [
         {
@@ -7384,6 +7415,10 @@
         {
           "price": 10300,
           "at": "2026-10-14T12:50:11.523Z"
+        },
+        {
+          "price": 10600,
+          "at": "2026-10-14T18:49:31.624Z"
         }
       ]
     },
@@ -7402,7 +7437,7 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T03:40:57.382Z",
       "removed": false,
       "priceHistory": [
@@ -7447,7 +7482,7 @@
         "46"
       ],
       "firstSeen": "2026-10-05T09:34:07.396Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T00:38:55.948Z",
       "removed": false,
       "priceHistory": [
@@ -7492,7 +7527,7 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T18:34:34.696Z",
       "removed": false,
       "priceHistory": [
@@ -7517,8 +7552,8 @@
     {
       "productNo": "155",
       "name": "내추럴 메탈 볼펜",
-      "price": 25400,
-      "listPrice": 25400,
+      "price": 24000,
+      "listPrice": 24000,
       "discounted": false,
       "currency": "KRW",
       "image": "https://ecimg.cafe24img.com/pg3354b17981525095/vibecodinguniv/web/upload/share-image-1-1239eebecbe63010c5ec9a2203d29068.jpg",
@@ -7529,8 +7564,8 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
-      "updatedAt": "2026-10-13T06:39:15.311Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
+      "updatedAt": "2026-10-14T18:49:31.624Z",
       "removed": false,
       "priceHistory": [
         {
@@ -7560,6 +7595,10 @@
         {
           "price": 25400,
           "at": "2026-10-13T06:39:15.311Z"
+        },
+        {
+          "price": 24000,
+          "at": "2026-10-14T18:49:31.624Z"
         }
       ]
     },
@@ -7578,7 +7617,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T03:32:27.194Z",
       "removed": false,
       "priceHistory": [
@@ -7627,7 +7666,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T21:29:06.815Z",
       "removed": false,
       "priceHistory": [
@@ -7726,7 +7765,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T21:28:35.090Z",
       "removed": false,
       "priceHistory": [
@@ -7767,7 +7806,7 @@
         "47"
       ],
       "firstSeen": "2026-10-06T00:39:13.586Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T15:47:20.729Z",
       "removed": false,
       "priceHistory": [
@@ -7804,7 +7843,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T21:29:06.815Z",
       "removed": false,
       "priceHistory": [
@@ -7849,7 +7888,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T12:50:11.523Z",
       "removed": false,
       "priceHistory": [
@@ -7924,7 +7963,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T21:29:06.815Z",
       "removed": false,
       "priceHistory": [
@@ -7973,7 +8012,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T12:39:38.281Z",
       "removed": false,
       "priceHistory": [
@@ -8052,7 +8091,7 @@
         "47"
       ],
       "firstSeen": "2026-10-12T03:33:09.789Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T06:51:21.484Z",
       "removed": false,
       "priceHistory": [
@@ -8081,7 +8120,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T03:40:57.382Z",
       "removed": false,
       "priceHistory": [
@@ -8114,7 +8153,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T09:35:03.279Z",
       "removed": false,
       "priceHistory": [
@@ -8151,7 +8190,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T09:42:23.684Z",
       "removed": false,
       "priceHistory": [
@@ -8184,8 +8223,8 @@
     {
       "productNo": "139",
       "name": "어반 보조배터리",
-      "price": 96300,
-      "listPrice": 96300,
+      "price": 99800,
+      "listPrice": 99800,
       "discounted": false,
       "currency": "KRW",
       "image": "https://ecimg.cafe24img.com/pg3354b17981525095/vibecodinguniv/web/upload/share-image-1-1239eebecbe63010c5ec9a2203d29068.jpg",
@@ -8196,8 +8235,8 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
-      "updatedAt": "2026-10-10T18:30:41.584Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
+      "updatedAt": "2026-10-14T18:49:31.624Z",
       "removed": false,
       "priceHistory": [
         {
@@ -8215,6 +8254,10 @@
         {
           "price": 96300,
           "at": "2026-10-10T18:30:41.584Z"
+        },
+        {
+          "price": 99800,
+          "at": "2026-10-14T18:49:31.624Z"
         }
       ]
     },
@@ -8267,7 +8310,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-10T18:30:41.584Z",
       "removed": false,
       "priceHistory": [
@@ -8304,7 +8347,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T06:34:22.876Z",
       "removed": false,
       "priceHistory": [
@@ -8357,7 +8400,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T00:51:54.798Z",
       "removed": false,
       "priceHistory": [
@@ -8390,7 +8433,7 @@
         "47"
       ],
       "firstSeen": "2026-10-05T12:37:01.585Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-10T03:29:32.728Z",
       "removed": false,
       "priceHistory": [
@@ -8427,7 +8470,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T03:40:57.382Z",
       "removed": false,
       "priceHistory": [
@@ -8476,7 +8519,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T15:33:34.479Z",
       "removed": false,
       "priceHistory": [
@@ -8523,7 +8566,7 @@
       "firstSeen": "2026-10-04T21:16:04.019Z",
       "lastSeen": "2026-10-14T15:47:20.729Z",
       "updatedAt": "2026-10-12T09:35:03.279Z",
-      "removed": false,
+      "removed": true,
       "priceHistory": [
         {
           "price": 12600,
@@ -8549,7 +8592,8 @@
           "price": 12400,
           "at": "2026-10-12T09:35:03.279Z"
         }
-      ]
+      ],
+      "removedAt": "2026-10-14T18:49:31.624Z"
     },
     {
       "productNo": "130",
@@ -8566,7 +8610,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T15:32:01.748Z",
       "removed": false,
       "priceHistory": [
@@ -8599,8 +8643,8 @@
     {
       "productNo": "129",
       "name": "스탠다드 차량용 거치대 차콜",
-      "price": 14800,
-      "listPrice": 14800,
+      "price": 15300,
+      "listPrice": 15300,
       "discounted": false,
       "currency": "KRW",
       "image": "https://ecimg.cafe24img.com/pg3354b17981525095/vibecodinguniv/web/upload/share-image-1-1239eebecbe63010c5ec9a2203d29068.jpg",
@@ -8611,8 +8655,8 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
-      "updatedAt": "2026-10-14T03:40:57.382Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
+      "updatedAt": "2026-10-14T18:49:31.624Z",
       "removed": false,
       "priceHistory": [
         {
@@ -8634,6 +8678,10 @@
         {
           "price": 14800,
           "at": "2026-10-14T03:40:57.382Z"
+        },
+        {
+          "price": 15300,
+          "at": "2026-10-14T18:49:31.624Z"
         }
       ]
     },
@@ -8652,7 +8700,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T09:33:36.107Z",
       "removed": false,
       "priceHistory": [
@@ -8685,7 +8733,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T12:39:38.281Z",
       "removed": false,
       "priceHistory": [
@@ -8722,7 +8770,7 @@
         "47"
       ],
       "firstSeen": "2026-10-05T00:38:23.741Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T06:39:15.311Z",
       "removed": false,
       "priceHistory": [
@@ -8767,7 +8815,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T18:37:42.533Z",
       "removed": false,
       "priceHistory": [
@@ -8824,7 +8872,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-07T15:40:41.765Z",
       "removed": false,
       "priceHistory": [
@@ -8857,7 +8905,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T03:33:09.789Z",
       "removed": false,
       "priceHistory": [
@@ -8898,7 +8946,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T18:37:42.533Z",
       "removed": false,
       "priceHistory": [
@@ -8935,7 +8983,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T09:42:23.684Z",
       "removed": false,
       "priceHistory": [
@@ -8972,7 +9020,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T00:51:54.798Z",
       "removed": false,
       "priceHistory": [
@@ -9005,8 +9053,8 @@
     {
       "productNo": "119",
       "name": "모던 폰 스트랩 네이비",
-      "price": 12600,
-      "listPrice": 12600,
+      "price": 13000,
+      "listPrice": 13000,
       "discounted": false,
       "currency": "KRW",
       "image": "https://ecimg.cafe24img.com/pg3354b17981525095/vibecodinguniv/web/upload/share-image-1-1239eebecbe63010c5ec9a2203d29068.jpg",
@@ -9017,8 +9065,8 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
-      "updatedAt": "2026-10-11T21:28:35.090Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
+      "updatedAt": "2026-10-14T18:49:31.624Z",
       "removed": false,
       "priceHistory": [
         {
@@ -9044,6 +9092,10 @@
         {
           "price": 12600,
           "at": "2026-10-11T21:28:35.090Z"
+        },
+        {
+          "price": 13000,
+          "at": "2026-10-14T18:49:31.624Z"
         }
       ]
     },
@@ -9096,7 +9148,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-04T21:16:04.019Z",
       "removed": false,
       "priceHistory": [
@@ -9121,7 +9173,7 @@
         "44"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T03:30:12.754Z",
       "removed": false,
       "priceHistory": [
@@ -9162,7 +9214,7 @@
         "44"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-10T18:30:41.584Z",
       "removed": false,
       "priceHistory": [
@@ -9203,7 +9255,7 @@
         "44"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T12:50:11.523Z",
       "removed": false,
       "priceHistory": [
@@ -9302,7 +9354,7 @@
         "44"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T21:28:35.090Z",
       "removed": false,
       "priceHistory": [
@@ -9339,7 +9391,7 @@
         "44"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T09:33:36.107Z",
       "removed": false,
       "priceHistory": [
@@ -9388,7 +9440,7 @@
         "44"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T15:47:20.729Z",
       "removed": false,
       "priceHistory": [
@@ -9425,7 +9477,7 @@
         "44"
       ],
       "firstSeen": "2026-10-05T03:31:15.784Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-08T09:31:50.354Z",
       "removed": false,
       "priceHistory": [
@@ -9466,7 +9518,7 @@
         "44"
       ],
       "firstSeen": "2026-10-08T00:38:41.675Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T03:32:27.194Z",
       "removed": false,
       "priceHistory": [
@@ -9507,7 +9559,7 @@
         "44"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T12:50:11.523Z",
       "removed": false,
       "priceHistory": [
@@ -9568,7 +9620,7 @@
         "44"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T03:40:57.382Z",
       "removed": false,
       "priceHistory": [
@@ -9605,7 +9657,7 @@
         "44"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T18:37:42.533Z",
       "removed": false,
       "priceHistory": [
@@ -9672,7 +9724,7 @@
         "44"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T21:39:15.274Z",
       "removed": false,
       "priceHistory": [
@@ -9713,7 +9765,7 @@
         "44"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T00:43:27.115Z",
       "removed": false,
       "priceHistory": [
@@ -9754,7 +9806,7 @@
         "44"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T03:33:09.789Z",
       "removed": false,
       "priceHistory": [
@@ -9787,7 +9839,7 @@
         "44"
       ],
       "firstSeen": "2026-10-05T00:38:23.741Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T00:51:54.798Z",
       "removed": false,
       "priceHistory": [
@@ -9836,7 +9888,7 @@
         "44"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-10T06:33:51.771Z",
       "removed": false,
       "priceHistory": [
@@ -9869,7 +9921,7 @@
         "44"
       ],
       "firstSeen": "2026-10-06T09:31:14.754Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-09T21:29:10.960Z",
       "removed": false,
       "priceHistory": [
@@ -9902,7 +9954,7 @@
         "44"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T09:29:07.985Z",
       "removed": false,
       "priceHistory": [
@@ -9935,7 +9987,7 @@
         "44"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T00:51:54.798Z",
       "removed": false,
       "priceHistory": [
@@ -9976,7 +10028,7 @@
         "44"
       ],
       "firstSeen": "2026-10-06T12:35:19.053Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-09T03:30:41.873Z",
       "removed": false,
       "priceHistory": [
@@ -10009,7 +10061,7 @@
         "44"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T12:39:38.281Z",
       "removed": false,
       "priceHistory": [
@@ -10050,7 +10102,7 @@
         "44"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-10T12:32:50.957Z",
       "removed": false,
       "priceHistory": [
@@ -10083,7 +10135,7 @@
         "44"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-06T15:30:17.444Z",
       "removed": false,
       "priceHistory": [
@@ -10112,7 +10164,7 @@
         "44"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T06:40:23.936Z",
       "removed": false,
       "priceHistory": [
@@ -10157,7 +10209,7 @@
         "44"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T03:40:57.382Z",
       "removed": false,
       "priceHistory": [
@@ -10190,8 +10242,8 @@
     {
       "productNo": "88",
       "name": "미니멀 LED 스탠드 블랙",
-      "price": 14000,
-      "listPrice": 14000,
+      "price": 13300,
+      "listPrice": 13300,
       "discounted": false,
       "currency": "KRW",
       "image": "https://ecimg.cafe24img.com/pg3354b17981525095/vibecodinguniv/web/upload/share-image-1-1239eebecbe63010c5ec9a2203d29068.jpg",
@@ -10202,8 +10254,8 @@
         "44"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
-      "updatedAt": "2026-10-12T21:29:06.815Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
+      "updatedAt": "2026-10-14T18:49:31.624Z",
       "removed": false,
       "priceHistory": [
         {
@@ -10225,6 +10277,10 @@
         {
           "price": 14000,
           "at": "2026-10-12T21:29:06.815Z"
+        },
+        {
+          "price": 13300,
+          "at": "2026-10-14T18:49:31.624Z"
         }
       ]
     },
@@ -10243,7 +10299,7 @@
         "44"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T06:51:21.484Z",
       "removed": false,
       "priceHistory": [
@@ -10310,7 +10366,7 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T12:50:11.523Z",
       "removed": false,
       "priceHistory": [
@@ -10355,7 +10411,7 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T15:47:20.729Z",
       "removed": false,
       "priceHistory": [
@@ -10418,7 +10474,7 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T06:51:21.484Z",
       "removed": false,
       "priceHistory": [
@@ -10463,7 +10519,7 @@
         "45"
       ],
       "firstSeen": "2026-10-05T06:40:10.445Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T12:50:11.523Z",
       "removed": false,
       "priceHistory": [
@@ -10504,7 +10560,7 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T15:47:20.729Z",
       "removed": false,
       "priceHistory": [
@@ -10557,7 +10613,7 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-07T15:40:41.765Z",
       "removed": false,
       "priceHistory": [
@@ -10586,7 +10642,7 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-10T03:29:32.728Z",
       "removed": false,
       "priceHistory": [
@@ -10619,7 +10675,7 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T21:29:06.815Z",
       "removed": false,
       "priceHistory": [
@@ -10652,8 +10708,8 @@
     {
       "productNo": "76",
       "name": "이지 백팩",
-      "price": 69100,
-      "listPrice": 69100,
+      "price": 72500,
+      "listPrice": 72500,
       "discounted": false,
       "currency": "KRW",
       "image": "https://ecimg.cafe24img.com/pg3354b17981525095/vibecodinguniv/web/upload/share-image-1-1239eebecbe63010c5ec9a2203d29068.jpg",
@@ -10664,8 +10720,8 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
-      "updatedAt": "2026-10-11T09:29:07.985Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
+      "updatedAt": "2026-10-14T18:49:31.624Z",
       "removed": false,
       "priceHistory": [
         {
@@ -10691,6 +10747,10 @@
         {
           "price": 69100,
           "at": "2026-10-11T09:29:07.985Z"
+        },
+        {
+          "price": 72500,
+          "at": "2026-10-14T18:49:31.624Z"
         }
       ]
     },
@@ -10709,7 +10769,7 @@
         "45"
       ],
       "firstSeen": "2026-10-08T00:38:41.675Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T06:34:22.876Z",
       "removed": false,
       "priceHistory": [
@@ -10738,8 +10798,8 @@
     {
       "productNo": "74",
       "name": "와이드 백팩 그레이",
-      "price": 102600,
-      "listPrice": 102600,
+      "price": 107100,
+      "listPrice": 107100,
       "discounted": false,
       "currency": "KRW",
       "image": "https://ecimg.cafe24img.com/pg3354b17981525095/vibecodinguniv/web/upload/share-image-1-1239eebecbe63010c5ec9a2203d29068.jpg",
@@ -10750,8 +10810,8 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
-      "updatedAt": "2026-10-08T09:31:50.354Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
+      "updatedAt": "2026-10-14T18:49:31.624Z",
       "removed": false,
       "priceHistory": [
         {
@@ -10769,6 +10829,10 @@
         {
           "price": 102600,
           "at": "2026-10-08T09:31:50.354Z"
+        },
+        {
+          "price": 107100,
+          "at": "2026-10-14T18:49:31.624Z"
         }
       ]
     },
@@ -10787,7 +10851,7 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T00:41:49.744Z",
       "removed": false,
       "priceHistory": [
@@ -10820,7 +10884,7 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T00:43:27.115Z",
       "removed": false,
       "priceHistory": [
@@ -10853,7 +10917,7 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T03:32:27.194Z",
       "removed": false,
       "priceHistory": [
@@ -10906,7 +10970,7 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T09:42:23.684Z",
       "removed": false,
       "priceHistory": [
@@ -11019,7 +11083,7 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T21:28:35.090Z",
       "removed": false,
       "priceHistory": [
@@ -11060,7 +11124,7 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T00:51:54.798Z",
       "removed": false,
       "priceHistory": [
@@ -11101,7 +11165,7 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-06T15:30:17.444Z",
       "removed": false,
       "priceHistory": [
@@ -11172,7 +11236,7 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T21:28:35.090Z",
       "removed": false,
       "priceHistory": [
@@ -11209,7 +11273,7 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-08T09:31:50.354Z",
       "removed": false,
       "priceHistory": [
@@ -11246,7 +11310,7 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T06:40:23.936Z",
       "removed": false,
       "priceHistory": [
@@ -11291,7 +11355,7 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T18:34:34.696Z",
       "removed": false,
       "priceHistory": [
@@ -11344,7 +11408,7 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-10T21:27:17.364Z",
       "removed": false,
       "priceHistory": [
@@ -11397,7 +11461,7 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T12:50:11.523Z",
       "removed": false,
       "priceHistory": [
@@ -11438,7 +11502,7 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T12:39:38.281Z",
       "removed": false,
       "priceHistory": [
@@ -11491,7 +11555,7 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T03:30:12.754Z",
       "removed": false,
       "priceHistory": [
@@ -11520,7 +11584,7 @@
         "42"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T06:51:21.484Z",
       "removed": false,
       "priceHistory": [
@@ -11553,8 +11617,8 @@
     {
       "productNo": "54",
       "name": "내추럴 메모패드",
-      "price": 5000,
-      "listPrice": 5000,
+      "price": 5200,
+      "listPrice": 5200,
       "discounted": false,
       "currency": "KRW",
       "image": "https://ecimg.cafe24img.com/pg3354b17981525095/vibecodinguniv/web/upload/share-image-1-1239eebecbe63010c5ec9a2203d29068.jpg",
@@ -11565,8 +11629,8 @@
         "46"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
-      "updatedAt": "2026-10-13T21:39:15.274Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
+      "updatedAt": "2026-10-14T18:49:31.624Z",
       "removed": false,
       "priceHistory": [
         {
@@ -11592,6 +11656,10 @@
         {
           "price": 5000,
           "at": "2026-10-13T21:39:15.274Z"
+        },
+        {
+          "price": 5200,
+          "at": "2026-10-14T18:49:31.624Z"
         }
       ]
     },
@@ -11610,7 +11678,7 @@
         "47"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-06T03:29:06.143Z",
       "removed": false,
       "priceHistory": [
@@ -11669,7 +11737,7 @@
         "45"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T15:28:04.611Z",
       "removed": false,
       "priceHistory": [
@@ -11716,7 +11784,7 @@
         "111"
       ],
       "firstSeen": "2026-10-11T03:30:12.754Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T00:51:54.798Z",
       "removed": false,
       "priceHistory": [
@@ -11847,7 +11915,7 @@
         "110"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-10T06:33:51.771Z",
       "removed": false,
       "priceHistory": [
@@ -11878,7 +11946,7 @@
         "109"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T00:43:27.115Z",
       "removed": false,
       "priceHistory": [
@@ -11929,7 +11997,7 @@
         "108"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-05T18:34:58.040Z",
       "removed": false,
       "priceHistory": [
@@ -11964,7 +12032,7 @@
         "106"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T15:32:01.748Z",
       "removed": false,
       "priceHistory": [
@@ -11999,7 +12067,7 @@
         "105"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T09:35:03.279Z",
       "removed": false,
       "priceHistory": [
@@ -12046,7 +12114,7 @@
         "104"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-09T21:29:10.960Z",
       "removed": false,
       "priceHistory": [
@@ -12081,7 +12149,7 @@
         "101"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T09:42:23.684Z",
       "removed": false,
       "priceHistory": [
@@ -12118,8 +12186,8 @@
     {
       "productNo": "40",
       "name": "컴팩트 크로스 슬링백",
-      "price": 45800,
-      "listPrice": 45800,
+      "price": 46900,
+      "listPrice": 46900,
       "discounted": false,
       "currency": "KRW",
       "image": "https://ecimg.cafe24img.com/pg3354b17981525095/vibecodinguniv/web/product/big/20260909/63d45b900c52b62c8171bedc03d4268e.jpg",
@@ -12132,8 +12200,8 @@
         "107"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
-      "updatedAt": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
+      "updatedAt": "2026-10-14T18:49:31.624Z",
       "removed": false,
       "priceHistory": [
         {
@@ -12171,6 +12239,10 @@
         {
           "price": 45800,
           "at": "2026-10-14T15:47:20.729Z"
+        },
+        {
+          "price": 46900,
+          "at": "2026-10-14T18:49:31.624Z"
         }
       ]
     },
@@ -12191,7 +12263,7 @@
         "103"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T09:42:23.684Z",
       "removed": false,
       "priceHistory": [
@@ -12234,7 +12306,7 @@
         "99"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T00:41:49.744Z",
       "removed": false,
       "priceHistory": [
@@ -12267,8 +12339,8 @@
     {
       "productNo": "37",
       "name": "시력 보호 모니터 라이트바",
-      "price": 65200,
-      "listPrice": 65200,
+      "price": 68700,
+      "listPrice": 68700,
       "discounted": false,
       "currency": "KRW",
       "image": "https://ecimg.cafe24img.com/pg3354b17981525095/vibecodinguniv/web/product/big/20260909/1b47d07bdfb88323e2c90e4eef1c37af.jpg",
@@ -12281,8 +12353,8 @@
         "97"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
-      "updatedAt": "2026-10-13T09:33:36.107Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
+      "updatedAt": "2026-10-14T18:49:31.624Z",
       "removed": false,
       "priceHistory": [
         {
@@ -12312,6 +12384,10 @@
         {
           "price": 65200,
           "at": "2026-10-13T09:33:36.107Z"
+        },
+        {
+          "price": 68700,
+          "at": "2026-10-14T18:49:31.624Z"
         }
       ]
     },
@@ -12332,7 +12408,7 @@
         "100"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T21:39:15.274Z",
       "removed": false,
       "priceHistory": [
@@ -12375,7 +12451,7 @@
         "102"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-08T06:36:54.167Z",
       "removed": false,
       "priceHistory": [
@@ -12410,7 +12486,7 @@
         "96"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T00:38:55.948Z",
       "removed": false,
       "priceHistory": [
@@ -12449,7 +12525,7 @@
         "94"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-10T18:30:41.584Z",
       "removed": false,
       "priceHistory": [
@@ -12480,7 +12556,7 @@
         "98"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-09T21:29:10.960Z",
       "removed": false,
       "priceHistory": [
@@ -12523,7 +12599,7 @@
         "95"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-04T21:16:04.019Z",
       "removed": false,
       "priceHistory": [
@@ -12550,7 +12626,7 @@
         "90"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T06:34:22.876Z",
       "removed": false,
       "priceHistory": [
@@ -12589,7 +12665,7 @@
         "91"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T00:38:55.948Z",
       "removed": false,
       "priceHistory": [
@@ -12632,7 +12708,7 @@
         "93"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T00:43:27.115Z",
       "removed": false,
       "priceHistory": [
@@ -12679,7 +12755,7 @@
         "92"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T09:42:23.684Z",
       "removed": false,
       "priceHistory": [
@@ -12718,7 +12794,7 @@
         "86"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T12:50:11.523Z",
       "removed": false,
       "priceHistory": [
@@ -12773,7 +12849,7 @@
         "88"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T03:40:57.382Z",
       "removed": false,
       "priceHistory": [
@@ -12812,7 +12888,7 @@
         "85"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-09T21:29:10.960Z",
       "removed": false,
       "priceHistory": [
@@ -12855,7 +12931,7 @@
         "89"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T09:42:23.684Z",
       "removed": false,
       "priceHistory": [
@@ -12906,7 +12982,7 @@
         "84"
       ],
       "firstSeen": "2026-10-10T09:28:21.794Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T12:50:41.366Z",
       "removed": false,
       "priceHistory": [
@@ -12941,7 +13017,7 @@
         "87"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T21:28:35.090Z",
       "removed": false,
       "priceHistory": [
@@ -12992,7 +13068,7 @@
         "83"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T00:43:27.115Z",
       "removed": false,
       "priceHistory": [
@@ -13035,7 +13111,7 @@
         "79"
       ],
       "firstSeen": "2026-10-05T15:32:46.779Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-08T15:32:37.445Z",
       "removed": false,
       "priceHistory": [
@@ -13082,7 +13158,7 @@
         "74"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T06:39:15.311Z",
       "removed": false,
       "priceHistory": [
@@ -13133,7 +13209,7 @@
         "82"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T18:37:42.533Z",
       "removed": false,
       "priceHistory": [
@@ -13172,7 +13248,7 @@
         "80"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-12T21:29:06.815Z",
       "removed": false,
       "priceHistory": [
@@ -13211,7 +13287,7 @@
         "81"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T15:47:20.729Z",
       "removed": false,
       "priceHistory": [
@@ -13258,7 +13334,7 @@
         "77"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-11T12:33:54.734Z",
       "removed": false,
       "priceHistory": [
@@ -13297,7 +13373,7 @@
         "75"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-13T00:43:27.115Z",
       "removed": false,
       "priceHistory": [
@@ -13340,7 +13416,7 @@
         "78"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-06T03:29:06.143Z",
       "removed": false,
       "priceHistory": [
@@ -13375,7 +13451,7 @@
         "76"
       ],
       "firstSeen": "2026-10-04T21:16:04.019Z",
-      "lastSeen": "2026-10-14T15:47:20.729Z",
+      "lastSeen": "2026-10-14T18:49:31.624Z",
       "updatedAt": "2026-10-14T00:51:54.798Z",
       "removed": false,
       "priceHistory": [
@@ -13403,6 +13479,182 @@
     }
   ],
   "events": [
+    {
+      "type": "price",
+      "productNo": "37",
+      "name": "시력 보호 모니터 라이트바",
+      "from": 65200,
+      "to": 68700,
+      "at": "2026-10-14T18:49:31.624Z"
+    },
+    {
+      "type": "price",
+      "productNo": "40",
+      "name": "컴팩트 크로스 슬링백",
+      "from": 45800,
+      "to": 46900,
+      "at": "2026-10-14T18:49:31.624Z"
+    },
+    {
+      "type": "price",
+      "productNo": "54",
+      "name": "내추럴 메모패드",
+      "from": 5000,
+      "to": 5200,
+      "at": "2026-10-14T18:49:31.624Z"
+    },
+    {
+      "type": "price",
+      "productNo": "74",
+      "name": "와이드 백팩 그레이",
+      "from": 102600,
+      "to": 107100,
+      "at": "2026-10-14T18:49:31.624Z"
+    },
+    {
+      "type": "price",
+      "productNo": "76",
+      "name": "이지 백팩",
+      "from": 69100,
+      "to": 72500,
+      "at": "2026-10-14T18:49:31.624Z"
+    },
+    {
+      "type": "price",
+      "productNo": "88",
+      "name": "미니멀 LED 스탠드 블랙",
+      "from": 14000,
+      "to": 13300,
+      "at": "2026-10-14T18:49:31.624Z"
+    },
+    {
+      "type": "price",
+      "productNo": "119",
+      "name": "모던 폰 스트랩 네이비",
+      "from": 12600,
+      "to": 13000,
+      "at": "2026-10-14T18:49:31.624Z"
+    },
+    {
+      "type": "price",
+      "productNo": "129",
+      "name": "스탠다드 차량용 거치대 차콜",
+      "from": 14800,
+      "to": 15300,
+      "at": "2026-10-14T18:49:31.624Z"
+    },
+    {
+      "type": "price",
+      "productNo": "139",
+      "name": "어반 보조배터리",
+      "from": 96300,
+      "to": 99800,
+      "at": "2026-10-14T18:49:31.624Z"
+    },
+    {
+      "type": "price",
+      "productNo": "155",
+      "name": "내추럴 메탈 볼펜",
+      "from": 25400,
+      "to": 24000,
+      "at": "2026-10-14T18:49:31.624Z"
+    },
+    {
+      "type": "price",
+      "productNo": "159",
+      "name": "라이트 인덱스 탭 아이보리",
+      "from": 10300,
+      "to": 10600,
+      "at": "2026-10-14T18:49:31.624Z"
+    },
+    {
+      "type": "restored",
+      "productNo": "178",
+      "name": "어반 클립보드 블랙",
+      "at": "2026-10-14T18:49:31.624Z"
+    },
+    {
+      "type": "price",
+      "productNo": "193",
+      "name": "모던 후드티",
+      "from": 83500,
+      "to": 86800,
+      "at": "2026-10-14T18:49:31.624Z"
+    },
+    {
+      "type": "price",
+      "productNo": "227",
+      "name": "베이직 미니 보틀 그레이",
+      "from": 38100,
+      "to": 39000,
+      "at": "2026-10-14T18:49:31.624Z"
+    },
+    {
+      "type": "price",
+      "productNo": "242",
+      "name": "시그니처 미니 보틀 그레이",
+      "from": 18000,
+      "to": 18500,
+      "at": "2026-10-14T18:49:31.624Z"
+    },
+    {
+      "type": "price",
+      "productNo": "250",
+      "name": "이지 미니 보틀",
+      "from": 28300,
+      "to": 29500,
+      "at": "2026-10-14T18:49:31.624Z"
+    },
+    {
+      "type": "price",
+      "productNo": "279",
+      "name": "심플 USB 허브 그레이",
+      "from": 39700,
+      "to": 38300,
+      "at": "2026-10-14T18:49:31.624Z"
+    },
+    {
+      "type": "price",
+      "productNo": "291",
+      "name": "컴포트 멀티탭 차콜",
+      "from": 22400,
+      "to": 23700,
+      "at": "2026-10-14T18:49:31.624Z"
+    },
+    {
+      "type": "price",
+      "productNo": "309",
+      "name": "모던 장패드",
+      "from": 18900,
+      "to": 19800,
+      "at": "2026-10-14T18:49:31.624Z"
+    },
+    {
+      "type": "price",
+      "productNo": "323",
+      "name": "어반 키캡 세트",
+      "from": 9600,
+      "to": 10200,
+      "at": "2026-10-14T18:49:31.624Z"
+    },
+    {
+      "type": "restored",
+      "productNo": "324",
+      "name": "에센셜 손목 받침대 차콜",
+      "at": "2026-10-14T18:49:31.624Z"
+    },
+    {
+      "type": "removed",
+      "productNo": "216",
+      "name": "컴포트 플리스 자켓 네이비",
+      "at": "2026-10-14T18:49:31.624Z"
+    },
+    {
+      "type": "removed",
+      "productNo": "131",
+      "name": "스탠다드 카드 수납 케이스 블랙",
+      "at": "2026-10-14T18:49:31.624Z"
+    },
     {
       "type": "price",
       "productNo": "15",
@@ -15536,180 +15788,6 @@
       "from": 23300,
       "to": 24300,
       "at": "2026-10-13T00:43:27.115Z"
-    },
-    {
-      "type": "price",
-      "productNo": "311",
-      "name": "미니멀 키캡 리무버 블랙",
-      "from": 8100,
-      "to": 7700,
-      "at": "2026-10-13T00:43:27.115Z"
-    },
-    {
-      "type": "price",
-      "productNo": "318",
-      "name": "스탠다드 손목 받침대 네이비",
-      "from": 38700,
-      "to": 37800,
-      "at": "2026-10-13T00:43:27.115Z"
-    },
-    {
-      "type": "removed",
-      "productNo": "309",
-      "name": "모던 장패드",
-      "at": "2026-10-13T00:43:27.115Z"
-    },
-    {
-      "type": "price",
-      "productNo": "13",
-      "name": "시그니처 로고 맨투맨",
-      "from": 46800,
-      "to": 49500,
-      "at": "2026-10-12T21:29:06.815Z"
-    },
-    {
-      "type": "price",
-      "productNo": "16",
-      "name": "클래식 코튼 볼캡",
-      "from": 24700,
-      "to": 23800,
-      "at": "2026-10-12T21:29:06.815Z"
-    },
-    {
-      "type": "price",
-      "productNo": "36",
-      "name": "슬림 가죽 13인치 노트북 슬리브",
-      "from": 45400,
-      "to": 47400,
-      "at": "2026-10-12T21:29:06.815Z"
-    },
-    {
-      "type": "price",
-      "productNo": "77",
-      "name": "이지 백팩 차콜",
-      "from": 50600,
-      "to": 49200,
-      "at": "2026-10-12T21:29:06.815Z"
-    },
-    {
-      "type": "price",
-      "productNo": "88",
-      "name": "미니멀 LED 스탠드 블랙",
-      "from": 13300,
-      "to": 14000,
-      "at": "2026-10-12T21:29:06.815Z"
-    },
-    {
-      "type": "price",
-      "productNo": "146",
-      "name": "이지 보조배터리 차콜",
-      "from": 115600,
-      "to": 110000,
-      "at": "2026-10-12T21:29:06.815Z"
-    },
-    {
-      "type": "price",
-      "productNo": "149",
-      "name": "컴포트 액정 보호 필름 차콜",
-      "from": 14700,
-      "to": 14100,
-      "at": "2026-10-12T21:29:06.815Z"
-    },
-    {
-      "type": "price",
-      "productNo": "153",
-      "name": "클래식 링 홀더",
-      "from": 4500,
-      "to": 4800,
-      "at": "2026-10-12T21:29:06.815Z"
-    },
-    {
-      "type": "price",
-      "productNo": "169",
-      "name": "소프트 만년 다이어리 아이보리",
-      "from": 23700,
-      "to": 23200,
-      "at": "2026-10-12T21:29:06.815Z"
-    },
-    {
-      "type": "price",
-      "productNo": "187",
-      "name": "클래식 클립보드 네이비",
-      "from": 14600,
-      "to": 14100,
-      "at": "2026-10-12T21:29:06.815Z"
-    },
-    {
-      "type": "price",
-      "productNo": "194",
-      "name": "미니멀 옥스포드 셔츠 그레이",
-      "from": 131300,
-      "to": 124900,
-      "at": "2026-10-12T21:29:06.815Z"
-    },
-    {
-      "type": "restored",
-      "productNo": "234",
-      "name": "소프트 스테인리스 보온병",
-      "at": "2026-10-12T21:29:06.815Z"
-    },
-    {
-      "type": "price",
-      "productNo": "245",
-      "name": "시그니처 컵홀더 아이보리",
-      "from": 12500,
-      "to": 13000,
-      "at": "2026-10-12T21:29:06.815Z"
-    },
-    {
-      "type": "price",
-      "productNo": "255",
-      "name": "코지 보온 텀블러",
-      "from": 51600,
-      "to": 49500,
-      "at": "2026-10-12T21:29:06.815Z"
-    },
-    {
-      "type": "restored",
-      "productNo": "291",
-      "name": "컴포트 멀티탭 차콜",
-      "at": "2026-10-12T21:29:06.815Z"
-    },
-    {
-      "type": "price",
-      "productNo": "294",
-      "name": "코지 멀티탭",
-      "from": 22200,
-      "to": 23300,
-      "at": "2026-10-12T21:29:06.815Z"
-    },
-    {
-      "type": "price",
-      "productNo": "326",
-      "name": "이지 키캡 리무버 블랙",
-      "from": 4300,
-      "to": 4400,
-      "at": "2026-10-12T21:29:06.815Z"
-    },
-    {
-      "type": "price",
-      "productNo": "328",
-      "name": "코지 장패드",
-      "from": 33100,
-      "to": 32100,
-      "at": "2026-10-12T21:29:06.815Z"
-    },
-    {
-      "type": "removed",
-      "productNo": "253",
-      "name": "컴포트 보온 텀블러",
-      "at": "2026-10-12T21:29:06.815Z"
-    },
-    {
-      "type": "removed",
-      "productNo": "138",
-      "name": "어반 그립톡",
-      "at": "2026-10-12T21:29:06.815Z"
     }
   ]
 }
